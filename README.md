@@ -1,4 +1,4 @@
-# emailscript
+# emailscript v1
 First edition email script
 This is the first edition of an email script I was working on to streamline sending emails to potential affilaites with the company I currently work with.
 
